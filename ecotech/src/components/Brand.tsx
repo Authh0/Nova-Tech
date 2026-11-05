@@ -1,0 +1,4 @@
+import {Link} from 'react-router-dom';
+export function Brand({compact = false, light = false, to = '/'}: {compact?: boolean; light?: boolean; to?: string}) {
+  return <Link to={to} aria-label="EcoTech — início" className={`brand ${light ? 'brand-light' : ''}`}><svg className="brand-mark" viewBox="0 0 44 44" fill="none" aria-hidden="true"><path d="M33 9H22C13 9 8 15 8 23c0 8 6 13 14 13 8 0 13-5 13-13" stroke="currentColor" strokeWidth="4.5" strokeLinecap="round"/><path d="M31 10c-11 1-15 6-14 14 8 1 14-3 14-14Z" fill="currentColor"/><path d="m17 26 10-11" stroke="#FBF9F5" strokeWidth="1.8" strokeLinecap="round"/><path d="M31 29h7M35 23h5" stroke="currentColor" strokeWidth="3" strokeLinecap="round"/><circle cx="38" cy="29" r="2.8" fill="currentColor"/><circle cx="40" cy="23" r="2.8" fill="currentColor"/></svg>{!compact && <span className="brand-word">Eco<span>Tech</span><i>®</i></span>}</Link>;
+}

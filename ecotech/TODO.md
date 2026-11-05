@@ -1,0 +1,1554 @@
+# Resultados EcoTech
+
+A cor principal solicitada é **laranja**; essa alteração prevalece sobre o verde principal da seção original de identidade. As cláusulas abaixo preservam todos os demais critérios do prompt.
+
+- [ ] 4. IDENTIDADE VISUAL E DESIGN SYSTEM
+
+
+## 4.1. Direção estética
+
+Desenvolva uma identidade visual premium, moderna, minimalista, tecnológica e sustentável.
+
+Utilize como referência de qualidade visual produtos como:
+
+- Apple;
+- Linear;
+- Stripe;
+- Vercel;
+- Notion;
+- Arc;
+- Dashboards modernos de SaaS.
+
+Não copie diretamente essas marcas.
+
+A intenção é reproduzir o nível de acabamento, organização, sofisticação e qualidade de experiência.
+
+A EcoTech deve parecer uma startup de tecnologia ambiental que possui um produto comercial real.
+
+## 4.2. Paleta de cores
+
+Utilize a seguinte paleta:
+
+### Verde sustentável
+- #16A34A
+- #22C55E
+- #4ADE80
+- #14532D
+
+### Azul tecnológico
+- #0F172A
+- #1E293B
+- #2563EB
+
+### Neutros
+- #FFFFFF
+- #F8FAFC
+- #E2E8F0
+- #94A3B8
+- #334155
+- #020617
+
+Utilize o verde para ações positivas, sustentabilidade, indicadores ambientais e recompensas.
+
+Utilize o azul para tecnologia, navegação, informações e elementos institucionais.
+
+Utilize os tons neutros para estruturar as interfaces.
+
+Não exagere no uso do verde. O design deverá possuir equilíbrio visual.
+
+## 4.3. Tipografia
+
+Utilize preferencialmente:
+
+- Inter;
+- Geist;
+- Manrope.
+
+Títulos devem possuir hierarquia clara.
+
+Textos devem ser legíveis.
+
+Cards devem utilizar descrições curtas.
+
+## 4.4. Componentes
+
+Crie um sistema visual consistente para:
+
+- Botões;
+- Inputs;
+- Cards;
+- Badges;
+- Modais;
+- Dropdowns;
+- Tabs;
+- Tooltips;
+- Toasts;
+- Progress bars;
+- Skeletons;
+- Tabelas;
+- Gráficos;
+- Menus;
+- Navegação.
+
+## 4.5. Animações
+
+Utilize animações sofisticadas e discretas.
+
+Implemente:
+
+- Fade-in;
+- Transições;
+- Hover;
+- Animações de progresso;
+- Feedback de botões;
+- Entrada de cards;
+- Animações de indicadores;
+- Transições entre estados.
+
+Respeite a preferência de redução de movimento do usuário.
+
+## 4.6. Acabamento
+
+Evite:
+
+- Aparência genérica;
+- Template gratuito sem personalização;
+- Excesso de gradientes;
+- Excesso de sombras;
+- Cards sem hierarquia;
+- Interfaces vazias;
+- Layouts desorganizados;
+- Textos genéricos;
+- Elementos desalinhados.
+
+---
+
+
+- [ ] 5. LOGOTIPO E IDENTIDADE DA MARCA
+
+
+Crie um logotipo original para a EcoTech.
+
+O símbolo poderá combinar:
+
+- Circuitos eletrônicos;
+- Folhas;
+- Geometria;
+- Reciclagem;
+- Tecnologia;
+- Transformação.
+
+O logotipo deverá funcionar em:
+
+- Landing page;
+- Dashboard;
+- Favicon;
+- Sidebar;
+- Cards;
+- Apresentação institucional.
+
+Crie versões horizontal e compacta.
+
+## Slogan principal
+
+"Seu eletrônico antigo pode transformar o futuro."
+
+## Slogan secundário
+
+"Descarte inteligente. Futuro sustentável."
+
+## Posicionamento
+
+A EcoTech representa inovação, responsabilidade ambiental, tecnologia e participação coletiva.
+
+---
+
+
+- [ ] 6. ESTRUTURA GERAL DA APLICAÇÃO
+
+
+Crie duas experiências principais.
+
+## 6.1. Site institucional
+
+Rotas:
+
+- `/`
+- `/sobre`
+- `/como-funciona`
+- `/empresas`
+- `/escolas`
+- `/impacto`
+- `/equipe`
+- `/login`
+- `/cadastro`
+
+## 6.2. Plataforma operacional
+
+Rotas:
+
+- `/app`
+- `/app/pontos-de-coleta`
+- `/app/pontos-de-coleta/:id`
+- `/app/agendamentos`
+- `/app/agendamentos/novo`
+- `/app/agendamentos/:id`
+- `/app/recompensas`
+- `/app/impacto`
+- `/app/campanhas`
+- `/app/perfil`
+- `/app/notificacoes`
+- `/app/empresa`
+- `/app/escola`
+- `/app/admin`
+
+Utilize layouts separados para o site institucional e o dashboard.
+
+A navegação deverá ser consistente e intuitiva.
+
+---
+
+
+- [ ] 7. LANDING PAGE COMERCIAL
+
+
+A landing page deverá ser extremamente bem desenvolvida.
+
+Ela será a primeira impressão da EcoTech e deverá impressionar visualmente os avaliadores.
+
+## 7.1. Header
+
+Crie um header moderno com:
+
+- Logotipo;
+- Início;
+- Como funciona;
+- Pontos de coleta;
+- Empresas;
+- Escolas;
+- Impacto;
+- Equipe;
+- Entrar;
+- Começar agora.
+
+O header deverá ser responsivo.
+
+Implemente:
+
+- Navegação;
+- Hover;
+- Menu mobile;
+- Sticky header;
+- Transições suaves.
+
+## 7.2. Hero Section
+
+Crie uma seção principal visualmente memorável.
+
+Título:
+
+**"Seu eletrônico antigo pode transformar o futuro."**
+
+Subtítulo:
+
+"Descubra onde descartar, agende coletas e acompanhe o impacto positivo das suas escolhas. A sustentabilidade começa com uma decisão inteligente."
+
+Botões:
+
+- Encontrar ponto de coleta;
+- Explorar a plataforma.
+
+Composição visual:
+
+- Elementos tecnológicos;
+- Dispositivos eletrônicos;
+- Circuitos;
+- Folhas;
+- Formas abstratas;
+- Gradientes;
+- Ilustrações sustentáveis;
+- Animações leves.
+
+O hero deverá possuir excelente hierarquia visual.
+
+## 7.3. Indicadores ambientais
+
+Apresente indicadores demonstrativos:
+
+- Quilogramas de resíduos destinados;
+- Dispositivos descartados;
+- Participantes;
+- Pontos de coleta;
+- CO₂ equivalente estimado.
+
+Utilize números demonstrativos consistentes.
+
+Identifique os dados fictícios quando necessário.
+
+## 7.4. Seção do problema
+
+Título:
+
+"Um problema invisível. Um impacto enorme."
+
+Explique:
+
+- Crescimento dos resíduos eletrônicos;
+- Descarte inadequado;
+- Falta de informação;
+- Dificuldade de encontrar pontos de coleta;
+- Perda de materiais recicláveis;
+- Impactos ambientais.
+
+Utilize elementos visuais e cards.
+
+## 7.5. Seção da solução
+
+Título:
+
+"Uma solução inteligente para um futuro sustentável."
+
+Apresente:
+
+### Descarte inteligente
+Localize pontos de coleta adequados.
+
+### Coleta simplificada
+Agende e acompanhe o descarte.
+
+### Recompensas
+Receba reconhecimento pelas contribuições.
+
+### Impacto ambiental
+Visualize os resultados das suas ações.
+
+## 7.6. Seção como funciona
+
+Apresente três etapas:
+
+1. Encontre um ponto de coleta.
+2. Destine seu eletrônico corretamente.
+3. Acompanhe seu impacto.
+
+Utilize uma composição visual conectando as etapas.
+
+## 7.7. Seção de equipamentos
+
+Apresente cards para:
+
+- Smartphones;
+- Notebooks;
+- Computadores;
+- Tablets;
+- Monitores;
+- Cabos;
+- Carregadores;
+- Teclados;
+- Mouses;
+- Impressoras;
+- Pilhas;
+- Baterias.
+
+Cada card deverá possuir ícone, nome e descrição.
+
+Ao clicar, abra um modal educativo.
+
+## 7.8. Seção para empresas
+
+Título:
+
+"Transforme sustentabilidade em resultados."
+
+Apresente:
+
+- Gestão de resíduos;
+- Campanhas;
+- Indicadores;
+- Relatórios;
+- Participação de colaboradores.
+
+Botão:
+
+"Conhecer soluções empresariais".
+
+## 7.9. Seção para escolas
+
+Título:
+
+"Educação ambiental que gera impacto."
+
+Apresente:
+
+- Campanhas escolares;
+- Gincanas;
+- Arrecadação;
+- Ranking;
+- Projetos educativos.
+
+Botão:
+
+"Participar com minha escola".
+
+## 7.10. Seção de impacto
+
+Apresente:
+
+- Gráficos;
+- Indicadores;
+- Evolução;
+- Metas;
+- Resultados.
+
+Título:
+
+"Cada descarte correto transforma o futuro."
+
+## 7.11. Seção de recompensas
+
+Título:
+
+"Sustentabilidade também merece reconhecimento."
+
+Apresente EcoPoints, níveis e conquistas.
+
+## 7.12. Seção de equipe
+
+Crie uma seção institucional dedicada aos integrantes do projeto.
+
+Título:
+
+**"Por trás da transformação, uma equipe."**
+
+Subtítulo:
+
+"Conheça os integrantes que estão construindo uma solução tecnológica para um futuro mais sustentável."
+
+Apresente os oito integrantes em cards individuais.
+
+## 7.13. CTA final
+
+Título:
+
+"Faça parte da transformação."
+
+Texto:
+
+"Conecte-se à sustentabilidade e transforme o destino dos seus eletrônicos."
+
+Botões:
+
+- Criar minha conta;
+- Encontrar pontos de coleta.
+
+## 7.14. Footer
+
+Inclua:
+
+- Logotipo;
+- Descrição;
+- Links;
+- Contato;
+- Redes sociais;
+- Equipe;
+- Política de privacidade;
+- Termos de uso;
+- Copyright.
+
+---
+
+
+- [ ] 8. EQUIPE OFICIAL DO PROJETO
+
+
+A EcoTech está sendo desenvolvida por uma equipe de oito integrantes.
+
+Os nomes deverão ser apresentados exatamente como fornecidos.
+
+## Integrantes
+
+1. Pedro Sales
+2. Mauro Filho Lima Noleto
+3. Kauã Guilherme Laurentino Brito
+4. Isaac Ramos Rodrigues Monteiro
+5. João Antonio Nozue Bueno
+6. Luca Bernardo Kemper Garcia
+7. Julio Keven Silva Melo
+8. Matheus Henrique Dos Santos Sousa Ferraz
+
+## Implementação da equipe
+
+Crie uma seção chamada "Nossa Equipe".
+
+Cada integrante deverá possuir um card individual.
+
+Os cards deverão apresentar:
+
+- Nome completo;
+- Avatar;
+- Espaço para fotografia;
+- Inicial ou iniciais do nome;
+- Design moderno;
+- Efeito hover;
+- Identidade visual consistente.
+
+Não invente:
+
+- Cargos;
+- Funções;
+- Especialidades;
+- Formação;
+- Experiência profissional;
+- Fotografias reais.
+
+Caso não existam fotografias, utilize avatares ilustrativos ou iniciais.
+
+Não atribua funções técnicas específicas aos integrantes sem que essas informações sejam fornecidas.
+
+## Página da equipe
+
+Crie também a rota `/equipe`.
+
+Essa página deverá possuir:
+
+- Título institucional;
+- Apresentação da equipe;
+- Cards dos oito integrantes;
+- Descrição do projeto;
+- Objetivo da iniciativa;
+- Contexto do desafio Tech & Arte SENAI.
+
+A seção deverá ser visualmente sofisticada.
+
+---
+
+
+- [ ] 9. LOGIN E CADASTRO
+
+
+Crie uma experiência de autenticação completa.
+
+## Login
+
+Campos:
+
+- E-mail;
+- Senha.
+
+Elementos:
+
+- Mostrar senha;
+- Esqueci minha senha;
+- Manter conectado;
+- Entrar;
+- Criar conta;
+- Acessar demonstração.
+
+## Cadastro
+
+Campos:
+
+- Nome;
+- E-mail;
+- Senha;
+- Confirmação;
+- Tipo de usuário.
+
+Tipos:
+
+- Pessoa física;
+- Empresa;
+- Escola;
+- Ponto de coleta.
+
+Implemente validação de formulários.
+
+Após login, redirecione o usuário para o dashboard.
+
+Caso utilize autenticação demonstrativa, deixe isso claro.
+
+---
+
+
+- [ ] 10. DASHBOARD DO USUÁRIO
+
+
+Crie um dashboard premium.
+
+## 10.1. Sidebar
+
+Itens:
+
+- Visão geral;
+- Pontos de coleta;
+- Agendamentos;
+- Recompensas;
+- Impacto ambiental;
+- Campanhas;
+- Perfil.
+
+Na parte inferior:
+
+- Configurações;
+- Ajuda;
+- Avatar;
+- Nome;
+- Sair.
+
+## 10.2. Header
+
+Inclua:
+
+- Breadcrumb;
+- Título;
+- Busca;
+- Notificações;
+- Avatar;
+- Menu do usuário.
+
+## 10.3. Dashboard principal
+
+Título:
+
+"Olá, [Nome]! Vamos gerar impacto hoje?"
+
+Subtítulo:
+
+"Acompanhe sua jornada sustentável."
+
+## 10.4. Cards
+
+Apresente:
+
+- Resíduos destinados;
+- Dispositivos;
+- EcoPoints;
+- Impacto estimado.
+
+## 10.5. Gráficos
+
+Implemente:
+
+- Evolução mensal;
+- Resíduos por categoria;
+- Atividade;
+- Participação.
+
+Utilize Recharts.
+
+## 10.6. Atividade recente
+
+Apresente:
+
+- Coletas;
+- Pontos;
+- Recompensas;
+- Agendamentos;
+- Campanhas.
+
+## 10.7. Próximo agendamento
+
+Apresente:
+
+- Data;
+- Horário;
+- Protocolo;
+- Equipamentos;
+- Status.
+
+## 10.8. Próxima meta
+
+Crie um card de progresso com:
+
+- Meta;
+- Progresso;
+- Recompensa;
+- Próxima conquista.
+
+---
+
+
+- [ ] 11. LOCALIZAÇÃO DE PONTOS DE DESCARTE
+
+
+Implemente uma funcionalidade completa.
+
+## 11.1. Página
+
+Título:
+
+"Encontre o destino certo para seus eletrônicos."
+
+## 11.2. Layout
+
+- Barra de pesquisa;
+- Filtros;
+- Mapa;
+- Lista;
+- Cards;
+- Detalhes.
+
+## 11.3. Mapa
+
+Utilize Leaflet e OpenStreetMap.
+
+O mapa deverá possuir:
+
+- Zoom;
+- Marcadores;
+- Popups;
+- Seleção;
+- Navegação;
+- Destaque de pontos.
+
+## 11.4. Pesquisa
+
+Permita pesquisar por:
+
+- Nome;
+- Bairro;
+- Cidade;
+- CEP;
+- Tipo de material.
+
+## 11.5. Filtros
+
+- Tipo de estabelecimento;
+- Materiais aceitos;
+- Distância;
+- Disponibilidade;
+- Atendimento.
+
+## 11.6. Cards
+
+Cada ponto deverá possuir:
+
+- Nome;
+- Categoria;
+- Endereço;
+- Horário;
+- Materiais;
+- Status;
+- Detalhes;
+- Como chegar.
+
+## 11.7. Detalhes
+
+Crie página completa com:
+
+- Informações;
+- Endereço;
+- Mapa;
+- Horários;
+- Contato;
+- Materiais aceitos;
+- Orientações;
+- Acessibilidade.
+
+## 11.8. Dados demonstrativos
+
+Cadastre pelo menos oito pontos fictícios.
+
+Distribua-os geograficamente de forma coerente.
+
+Identifique claramente os registros demonstrativos.
+
+---
+
+
+- [ ] 12. AGENDAMENTO DE COLETA
+
+
+Crie um fluxo completo de agendamento.
+
+## Etapa 1 — Equipamentos
+
+Permita adicionar vários equipamentos.
+
+Campos:
+
+- Tipo;
+- Quantidade;
+- Estado;
+- Observação;
+- Peso estimado opcional.
+
+## Etapa 2 — Modalidade
+
+- Entrega em ponto de coleta;
+- Coleta no endereço.
+
+## Etapa 3 — Localização
+
+- CEP;
+- Rua;
+- Número;
+- Complemento;
+- Bairro;
+- Cidade;
+- Estado.
+
+## Etapa 4 — Data
+
+- Calendário;
+- Horários;
+- Disponibilidade;
+- Validação.
+
+## Etapa 5 — Revisão
+
+Apresente resumo.
+
+## Etapa 6 — Confirmação
+
+Gere:
+
+- Protocolo;
+- Status;
+- Resumo;
+- Confirmação;
+- Histórico.
+
+## Gestão
+
+Permita:
+
+- Consultar;
+- Cancelar;
+- Acompanhar;
+- Filtrar;
+- Visualizar histórico.
+
+Status:
+
+- Solicitado;
+- Confirmado;
+- Em coleta;
+- Concluído;
+- Cancelado.
+
+Não conceda pontos antes da validação.
+
+---
+
+
+- [ ] 13. PROGRAMA DE RECOMPENSAS — ECOPOINTS
+
+
+Crie um sistema de gamificação completo.
+
+## Dashboard
+
+Apresente:
+
+- Saldo;
+- Histórico;
+- Nível;
+- Conquistas;
+- Próxima meta.
+
+## Níveis
+
+- Iniciante Verde;
+- Explorador Sustentável;
+- Guardião Ambiental;
+- EcoHero;
+- Lenda da Sustentabilidade.
+
+## Conquistas
+
+- Primeiro descarte;
+- 10 dispositivos;
+- 10 kg destinados;
+- Participação em campanha;
+- Diversidade de materiais.
+
+## Recompensas
+
+Crie cards com:
+
+- Nome;
+- Descrição;
+- Custo;
+- Categoria;
+- Disponibilidade;
+- Resgatar.
+
+## Resgate
+
+- Validar saldo;
+- Confirmar;
+- Deduzir pontos;
+- Registrar;
+- Gerar comprovante.
+
+## Ranking
+
+Apresente:
+
+- Posição;
+- Nome;
+- Avatar;
+- Pontos;
+- Nível.
+
+Inclua ranking individual e institucional.
+
+---
+
+
+- [ ] 14. DASHBOARD DE IMPACTO AMBIENTAL
+
+
+Crie uma página dedicada.
+
+Título:
+
+"Seu impacto vai muito além do descarte."
+
+## Indicadores
+
+- Resíduos destinados;
+- Dispositivos;
+- CO₂ equivalente estimado;
+- Campanhas;
+- Participações.
+
+## Gráficos
+
+- Evolução mensal;
+- Categorias;
+- Contribuições;
+- Metas;
+- Comparações.
+
+## Filtros
+
+- 7 dias;
+- 30 dias;
+- 90 dias;
+- 12 meses.
+
+## Histórico
+
+Apresente:
+
+- Data;
+- Equipamento;
+- Quantidade;
+- Peso;
+- Destinação;
+- Status.
+
+## Metas
+
+Apresente progresso e próximas conquistas.
+
+## Transparência
+
+Diferencie dados reais, estimados e demonstrativos.
+
+Não apresente estimativas ambientais como medições científicas oficiais.
+
+---
+
+
+- [ ] 15. ÁREA PARA EMPRESAS
+
+
+Crie um dashboard institucional.
+
+## Cadastro
+
+- Nome;
+- CNPJ;
+- E-mail;
+- Telefone;
+- Endereço;
+- Responsável;
+- Logo.
+
+## Dashboard
+
+- Resíduos;
+- Dispositivos;
+- Campanhas;
+- Participantes;
+- Metas;
+- Impacto.
+
+## Campanhas
+
+Permita:
+
+- Criar;
+- Editar;
+- Consultar;
+- Encerrar;
+- Acompanhar.
+
+## Relatórios
+
+Apresente:
+
+- Indicadores;
+- Gráficos;
+- Histórico;
+- Resultados;
+- Exportação demonstrativa.
+
+---
+
+
+- [ ] 16. ÁREA PARA ESCOLAS
+
+
+Crie uma experiência voltada à educação ambiental.
+
+## Dashboard
+
+- Resíduos;
+- Participantes;
+- Turmas;
+- Campanhas;
+- Metas;
+- Ranking.
+
+## Funcionalidades
+
+- Criar campanhas;
+- Arrecadar eletrônicos;
+- Acompanhar resultados;
+- Comparar turmas;
+- Visualizar indicadores;
+- Gerar certificados demonstrativos.
+
+## Gamificação
+
+Crie desafios:
+
+- Turma mais sustentável;
+- Maior arrecadação;
+- Participação coletiva;
+- Diversidade de equipamentos.
+
+Não utilize ranking para expor dados pessoais de estudantes.
+
+---
+
+
+- [ ] 17. ÁREA ADMINISTRATIVA
+
+
+Crie um painel de administração.
+
+## Dashboard
+
+- Usuários;
+- Empresas;
+- Escolas;
+- Pontos;
+- Agendamentos;
+- Campanhas;
+- Resíduos;
+- Recompensas.
+
+## Gerenciamento
+
+- Usuários;
+- Pontos de coleta;
+- Agendamentos;
+- Campanhas;
+- Recompensas;
+- Registros ambientais.
+
+## Validação
+
+Permita validar descartes.
+
+Campos:
+
+- Protocolo;
+- Equipamentos;
+- Quantidade;
+- Peso;
+- Destinação;
+- Observação;
+- Status.
+
+Somente registros validados devem gerar recompensas e contabilização ambiental definitiva.
+
+---
+
+
+- [ ] 18. NOTIFICAÇÕES
+
+
+Crie um sistema com:
+
+- Agendamento confirmado;
+- Coleta concluída;
+- EcoPoints recebidos;
+- Recompensa resgatada;
+- Campanha iniciada;
+- Meta alcançada;
+- Conquista desbloqueada.
+
+Implemente:
+
+- Badge;
+- Lista;
+- Data;
+- Status;
+- Marcar como lida;
+- Marcar todas.
+
+---
+
+
+- [ ] 19. PERFIL
+
+
+Crie uma página com:
+
+- Nome;
+- E-mail;
+- Avatar;
+- Tipo;
+- Cidade;
+- Cadastro.
+
+Configurações:
+
+- Editar perfil;
+- Endereços;
+- Notificações;
+- Privacidade;
+- Preferências;
+- Sair.
+
+---
+
+
+- [ ] 20. DIFERENCIAIS INOVADORES
+
+
+Implemente recursos adicionais.
+
+## EcoScore
+
+Crie um indicador de participação sustentável baseado em contribuições validadas.
+
+Apresente critérios de cálculo.
+
+## Mapa de impacto
+
+Visualize:
+
+- Pontos;
+- Campanhas;
+- Regiões;
+- Participação.
+
+## Inteligência de descarte
+
+Crie um guia educativo.
+
+O usuário seleciona um equipamento e recebe:
+
+- Preparação;
+- Cuidados;
+- Onde descartar;
+- Orientações;
+- Riscos;
+- Informações.
+
+## Educação ambiental
+
+Crie uma área com:
+
+- Artigos;
+- Guias;
+- Curiosidades;
+- Dicas;
+- Economia circular;
+- Sustentabilidade.
+
+## Campanhas comunitárias
+
+Apresente campanhas de:
+
+- Escolas;
+- Empresas;
+- Comunidades;
+- Instituições.
+
+---
+
+
+- [ ] 21. STACK TECNOLÓGICA
+
+
+Utilize:
+
+- React;
+- TypeScript;
+- Vite;
+- Tailwind CSS;
+- React Router;
+- Lucide React;
+- Recharts;
+- Leaflet;
+- React Hook Form;
+- Zod.
+
+Para backend:
+
+- Supabase;
+- PostgreSQL;
+- Supabase Auth;
+- Supabase Storage;
+- Row Level Security.
+
+Se o backend não estiver configurado:
+
+- Implemente persistência local;
+- Utilize localStorage ou IndexedDB;
+- Crie serviços independentes;
+- Utilize dados demonstrativos;
+- Documente as limitações.
+
+Não simule uma integração real sem explicar que se trata de demonstração.
+
+---
+
+
+- [ ] 22. MODELAGEM DE DADOS
+
+
+Crie estruturas para:
+
+- Users;
+- Organizations;
+- CollectionPoints;
+- Appointments;
+- Equipment;
+- Rewards;
+- Redemptions;
+- Campaigns;
+- EnvironmentalRecords;
+- Notifications;
+- Achievements;
+- Certificates.
+
+Implemente relacionamentos e validações.
+
+Preserve consistência entre dados e dashboards.
+
+---
+
+
+- [ ] 23. SEGURANÇA E INTEGRIDADE
+
+
+Implemente:
+
+- Controle de acesso;
+- Validação de formulários;
+- Proteção de rotas;
+- Separação de permissões;
+- Integridade dos registros;
+- Validação de agendamentos;
+- Proteção contra duplicações;
+- Controle de recompensas;
+- Privacidade;
+- Limitação de acesso administrativo.
+
+Não permita que usuários comuns acessem funcionalidades administrativas.
+
+---
+
+
+- [ ] 24. RESPONSIVIDADE
+
+
+A plataforma deverá funcionar em:
+
+- Desktop;
+- Notebook;
+- Tablet;
+- Smartphone.
+
+## Desktop
+
+- Sidebar;
+- Gráficos amplos;
+- Cards;
+- Mapa;
+- Layout completo.
+
+## Tablet
+
+- Sidebar adaptável;
+- Cards reorganizados;
+- Gráficos responsivos.
+
+## Mobile
+
+- Navegação compacta;
+- Drawer;
+- Cards em uma coluna;
+- Formulários adaptados;
+- Botões acessíveis;
+- Mapa responsivo;
+- Gráficos ajustados.
+
+Não simplesmente reduza o layout desktop.
+
+Adapte a experiência para cada dispositivo.
+
+---
+
+
+- [ ] 25. ACESSIBILIDADE
+
+
+Implemente:
+
+- Contraste;
+- Navegação por teclado;
+- Labels;
+- Foco;
+- Textos alternativos;
+- Componentes semânticos;
+- Feedback acessível;
+- Redução de movimento;
+- Estados de erro;
+- Mensagens claras.
+
+---
+
+
+- [ ] 26. PERFORMANCE
+
+
+Otimize:
+
+- Imagens;
+- Componentes;
+- Carregamento;
+- Gráficos;
+- Mapas;
+- Dependências;
+- Renderização.
+
+Utilize lazy loading quando necessário.
+
+Evite dependências desnecessárias.
+
+---
+
+
+- [ ] 27. CONTEÚDO E IDIOMA
+
+
+Toda a aplicação deverá estar em português brasileiro.
+
+Utilize:
+
+- Datas brasileiras;
+- Textos claros;
+- Comunicação profissional;
+- Descrições objetivas;
+- Conteúdo coerente;
+- Terminologia consistente.
+
+Não utilize Lorem Ipsum.
+
+Não misture idiomas desnecessariamente.
+
+---
+
+
+- [ ] 28. EXPERIÊNCIA DE DEMONSTRAÇÃO
+
+
+Prepare a EcoTech para apresentação à banca do SENAI.
+
+O sistema deverá possuir:
+
+- Usuário demonstrativo;
+- Dados consistentes;
+- Pontos de coleta;
+- Agendamentos;
+- Campanhas;
+- Recompensas;
+- Indicadores;
+- Histórico.
+
+Crie um botão na landing page:
+
+"Explorar demonstração".
+
+Esse botão deverá permitir navegar pela plataforma sem cadastro complexo.
+
+## Fluxo de apresentação
+
+1. Acessar a landing page.
+2. Apresentar o problema.
+3. Mostrar a solução.
+4. Acessar o dashboard.
+5. Encontrar ponto de coleta.
+6. Consultar materiais.
+7. Criar agendamento.
+8. Visualizar protocolo.
+9. Consultar recompensas.
+10. Visualizar impacto.
+11. Apresentar campanhas.
+12. Mostrar área institucional.
+13. Apresentar a equipe.
+
+O fluxo deverá ser intuitivo e funcionar perfeitamente.
+
+---
+
+
+- [ ] 29. REQUISITOS DE QUALIDADE VISUAL
+
+
+A EcoTech deverá apresentar:
+
+- Design premium;
+- Identidade visual consistente;
+- Hierarquia visual;
+- Tipografia sofisticada;
+- Cards elegantes;
+- Gráficos modernos;
+- Mapa integrado;
+- Navegação intuitiva;
+- Animações suaves;
+- Layout responsivo;
+- Acabamento profissional.
+
+Não quero:
+
+- Template genérico;
+- Landing page básica;
+- Dashboard vazio;
+- Botões decorativos;
+- Interfaces sem personalidade;
+- Elementos desalinhados;
+- Páginas incompletas;
+- Dados inconsistentes.
+
+Quero uma aplicação que impressione visualmente e transmita confiança.
+
+---
+
+
+- [ ] 30. TESTES OBRIGATÓRIOS
+
+
+Antes de finalizar, teste:
+
+- Landing page;
+- Navegação;
+- Login;
+- Cadastro;
+- Dashboard;
+- Mapa;
+- Filtros;
+- Agendamento;
+- Protocolos;
+- Cancelamentos;
+- Histórico;
+- Recompensas;
+- Resgates;
+- Gráficos;
+- Campanhas;
+- Perfil;
+- Notificações;
+- Área institucional;
+- Administração;
+- Responsividade.
+
+Corrija:
+
+- Erros de execução;
+- Erros de console;
+- Links quebrados;
+- Botões sem ação;
+- Problemas de navegação;
+- Dados inconsistentes;
+- Problemas de responsividade.
+
+---
+
+
+- [ ] 31. ENTREGÁVEIS FINAIS
+
+
+Ao terminar, entregue:
+
+## Aplicação
+
+- Landing page;
+- Página institucional;
+- Página da equipe;
+- Login;
+- Cadastro;
+- Dashboard;
+- Pontos de coleta;
+- Agendamentos;
+- Recompensas;
+- Impacto;
+- Campanhas;
+- Perfil;
+- Empresas;
+- Escolas;
+- Administração.
+
+## Identidade
+
+- Logotipo;
+- Paleta;
+- Tipografia;
+- Favicon;
+- Componentes.
+
+## Funcionalidades
+
+- Navegação;
+- Mapa;
+- Pesquisa;
+- Filtros;
+- Agendamento;
+- Persistência;
+- Recompensas;
+- Gráficos;
+- Notificações;
+- Formulários;
+- Modais.
+
+## Código
+
+- Código organizado;
+- Componentes reutilizáveis;
+- Arquitetura;
+- Serviços;
+- Dados;
+- README;
+- Instruções.
+
+## Qualidade
+
+- Responsividade;
+- Acessibilidade;
+- Performance;
+- Testes;
+- Correção de erros.
+
+---
+
+
+
+- [ ] Inspeção independente, somente leitura, das integrações e critérios pelo agente de validação; corrigir defeitos confirmados.
